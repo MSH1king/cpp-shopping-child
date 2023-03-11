@@ -1,0 +1,5 @@
+Chips,39.25,40
+Candy,1.99,40
+ChcoBr,200,20
+Gum,15,20
+Drink,90,20
